@@ -1,0 +1,19 @@
+.all-products-page {
+    padding: 16px;
+  }
+  
+  .filters {
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 16px;
+  }
+  
+  .filters input,
+  .filters select {
+    padding: 8px;
+    margin-right: 8px;
+  }
+  
+  .filters button {
+    padding: 8px 16px;
+  }
